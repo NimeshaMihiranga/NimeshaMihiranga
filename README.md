@@ -183,11 +183,7 @@ motto: "Create with purpose. Build with passion."
 ## 📊 GitHub Analytics // Neon Dashboard
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NimeshaMihiranga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00D4&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshaMihiranga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" alt="Most used languages" />
-
-<br />
+<br>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=NimeshaMihiranga&theme=tokyonight&hide_border=true&background=0D1117&ring=7A00FF&fire=00F5FF&currStreakLabel=FF00D4" alt="GitHub contribution streak" />
 

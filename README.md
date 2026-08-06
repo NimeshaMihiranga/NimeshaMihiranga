@@ -1,23 +1,20 @@
-<!-- =========================================================
-     GitHub Profile README — Nimesha Mihiranga
-     Repository name must be: NimeshaMihiranga
-========================================================== -->
+<!-- GitHub Profile README for Nimesha Mihiranga -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7F00FF,50:00C9FF,100:00FFA3&text=Nimesha%20Mihiranga&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Developer%20%E2%80%A2%20Creator%20%E2%80%A2%20Music%20Producer&descAlignY=60&animation=fadeIn" alt="Nimesha Mihiranga header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:00C9FF,50:7F00FF,100:FF1493&text=Nimesha%20Mihiranga&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Video%20Editor%20%E2%80%A2%20Music%20Producer%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Artist&descAlignY=60&animation=fadeIn" alt="Nimesha Mihiranga header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&width=760&lines=Web+Developer+%26+Creative+Technologist;Video+Editor+%26+Content+Creator;Music+Producer+%26+Digital+Artist;Building+ideas+into+digital+experiences" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&width=850&lines=Cinematic+Visual+Storytelling;Advanced+Color+Grading+%26+VFX;Music+Production+%26+Digital+Art;Modern+Web+Experiences+%26+Creative+Technology" alt="Typing introduction" />
 
 <br />
 
-<a href="https://nimeshamihiranga.online">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7F00FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+<a href="https://nimesha-mihiranga.web.app">
+  <img src="https://img.shields.io/badge/Official%20Website-Visit%20Portfolio-7F00FF?style=for-the-badge&logo=firebase&logoColor=white" alt="Official website" />
 </a>
 <a href="https://www.linkedin.com/in/nimeshamihiranga">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://youtube.com/channel/UCzwbXwSxlx5GuNlx1j6VFZg">
+<a href="https://www.youtube.com/channel/UCzwbXwSxlx5GuNlx1j6VFZg">
   <img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
 
@@ -30,34 +27,71 @@
 
 ---
 
-## 👋 About Me
+## ✦ About Nimesha Mihiranga
+
+I am **Nimesha Mihiranga**, a passionate **Video Editor, Music Producer, Artist, and Web Developer** based in **Sri Lanka 🇱🇰**. I specialize in cinematic visual storytelling, advanced color grading, VFX compositing, music production, and modern digital experiences.
+
+With experience blending auditory and visual mediums, I have designed systems such as the **DeX Elite Media Player** and created content for growing YouTube audiences. My goal is to continually explore modern digital aesthetics and turn creative ideas into meaningful, polished experiences.
 
 ```yaml
 name: Nimesha Mihiranga
 location: Sri Lanka 🇱🇰
-roles:
-  - Student
-  - Web Developer
+professional_roles:
   - Video Editor
   - Music Producer
+  - Artist
+  - Web Developer
   - Content Creator
-focus:
-  - Modern web applications
-  - Creative digital experiences
-  - Music and visual content
-  - Personal branding
+specialties:
+  - Cinematic Visual Storytelling
+  - Advanced Color Grading
+  - VFX Compositing
+  - Music Production
+  - Modern Web Experiences
+current_focus:
+  - DeX Elite Media Player
+  - Creative Web Applications
+  - Music and Audiovisual Content
+  - Personal Brand Development
 motto: "Create with purpose. Build with passion."
 ```
 
-I’m a creative technology enthusiast who enjoys combining **development, design, video, and music** to build polished digital experiences. My work ranges from modern websites and real-time web applications to music production, visual content, and online branding.
-
-- 🔭 Currently developing creative web projects and improving my portfolio
-- 🌱 Learning more about React, Firebase, Supabase, Python, and modern UI/UX
-- 🎬 Creating videos, motion graphics, thumbnails, and digital artwork
+- 🎬 Creating cinematic edits, motion graphics, visual effects, and digital artwork
 - 🎵 Producing instrumentals, emotional music, and audiovisual content
-- 💬 Interested in web development, editing, music production, and content creation
-- 🌐 Portfolio: **[nimeshamihiranga.online](https://nimeshamihiranga.online)**
-- 📩 Contact: **[nimeshamihiranga.online/contact](https://nimeshamihiranga.online/contact)**
+- 💻 Building modern websites, creative applications, and media-focused software
+- 🚀 Developing the **DeX Elite Media Player** and other digital products
+- 🌐 Official website: **[nimesha-mihiranga.web.app](https://nimesha-mihiranga.web.app)**
+- 📩 Contact: **[nimesha-mihiranga.web.app](https://nimesha-mihiranga.web.app)**
+
+---
+
+## ✓ Verified Accounts
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nimeshamihiranga">
+  <img src="https://img.shields.io/badge/LinkedIn-Verified-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Verified LinkedIn" />
+</a>
+<a href="https://tiktok.com/@nimesha_mihiranga">
+  <img src="https://img.shields.io/badge/TikTok-Verified-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Verified TikTok" />
+</a>
+<a href="https://github.com/NimeshaMihiranga">
+  <img src="https://img.shields.io/badge/GitHub-Verified-181717?style=for-the-badge&logo=github&logoColor=white" alt="Verified GitHub" />
+</a>
+<a href="https://www.pinterest.com/Nimesha_Mihiranga">
+  <img src="https://img.shields.io/badge/Pinterest-Verified-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Verified Pinterest" />
+</a>
+<a href="https://gitlab.com/NimeshaMihiranga">
+  <img src="https://img.shields.io/badge/GitLab-Verified-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="Verified GitLab" />
+</a>
+<a href="https://open.spotify.com/user/31bqf3u4h4uh3uec6etxxza5k4va">
+  <img src="https://img.shields.io/badge/Spotify-Verified-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Verified Spotify" />
+</a>
+<a href="https://www.youtube.com/channel/UCzwbXwSxlx5GuNlx1j6VFZg">
+  <img src="https://img.shields.io/badge/YouTube-Verified-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Verified YouTube" />
+</a>
+
+</div>
 
 ---
 
@@ -95,22 +129,24 @@ I’m a creative technology enthusiast who enjoys combining **development, desig
 
 ### 🌐 Development
 
-- Responsive websites and portfolio sites
+- Modern responsive websites
+- Portfolio and personal-brand websites
 - Real-time web applications
 - Firebase and Supabase integrations
-- Authentication and database systems
-- Modern animated interfaces
+- Media players and creative software
+- Animated and interactive interfaces
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎨 Creative Media
 
-- Video editing and motion graphics
+- Cinematic video editing
+- Advanced color grading
+- VFX and motion graphics
 - Music production and instrumentals
 - YouTube thumbnails and cover artwork
-- Social media branding
-- Creative digital content
+- Social-media branding and content
 
 </td>
 </tr>
@@ -137,12 +173,12 @@ I’m a creative technology enthusiast who enjoys combining **development, desig
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Official Links
 
 <div align="center">
 
 <a href="https://nimesha-mihiranga.web.app">
-  <img src="https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=googlechrome&logoColor=00C9FF" alt="Website" />
+  <img src="https://img.shields.io/badge/Official%20Website-181717?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Official website" />
 </a>
 <a href="https://www.linkedin.com/in/nimeshamihiranga">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -150,11 +186,17 @@ I’m a creative technology enthusiast who enjoys combining **development, desig
 <a href="https://github.com/NimeshaMihiranga">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://youtube.com/channel/UCzwbXwSxlx5GuNlx1j6VFZg">
+<a href="https://www.youtube.com/channel/UCzwbXwSxlx5GuNlx1j6VFZg">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
 <a href="https://tiktok.com/@nimesha_mihiranga">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+</a>
+<a href="https://www.pinterest.com/Nimesha_Mihiranga">
+  <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
+</a>
+<a href="https://gitlab.com/NimeshaMihiranga">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
 </a>
 <a href="https://open.spotify.com/user/31bqf3u4h4uh3uec6etxxza5k4va">
   <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
@@ -170,6 +212,6 @@ I’m a creative technology enthusiast who enjoys combining **development, desig
 
 **Let’s create something meaningful, modern, and unforgettable.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7F00FF,50:00C9FF,100:00FFA3" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C9FF,50:7F00FF,100:FF1493" alt="Footer" />
 
 </div>

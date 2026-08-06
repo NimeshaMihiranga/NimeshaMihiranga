@@ -141,7 +141,7 @@ I’m a creative technology enthusiast who enjoys combining **development, desig
 
 <div align="center">
 
-<a href="https://nimeshamihiranga.online">
+<a href="https://nimesha-mihiranga.web.app">
   <img src="https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=googlechrome&logoColor=00C9FF" alt="Website" />
 </a>
 <a href="https://www.linkedin.com/in/nimeshamihiranga">

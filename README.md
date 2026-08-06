@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:00F5FF,35:7A00FF,70:FF00D4,100:111111&text=Nimesha%20Mihiranga&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Cyberpunk%20Creator%20%E2%80%A2%20Video%20Editor%20%E2%80%A2%20Music%20Producer%20%E2%80%A2%20Web%20Developer&descAlignY=60&animation=fadeIn" alt="Nimesha Mihiranga header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:00F5FF,35:7A00FF,70:FF00D4,100:111111&text=Nimesha%20Mihiranga&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Video%20Editor%20%E2%80%A2%20Music%20Producer%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Artist&descAlignY=60&animation=fadeIn" alt="Nimesha Mihiranga header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=920&lines=Cinematic+Visual+Storytelling;Advanced+Color+Grading+%26+VFX+Compositing;Music+Production+%26+Digital+Art;Modern+Web+Experiences+with+a+Cyberpunk+Soul" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=920&lines=Cinematic+Visual+Storytelling;Advanced+Color+Grading+%26+VFX+Compositing;Music+Production+%26+Digital+Art;Modern+Web+Experiences+%26+Creative+Technology" alt="Typing introduction" />
 
 <br />
 
